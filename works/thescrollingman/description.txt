@@ -1,0 +1,15 @@
+- Name of your experiment:
+
+The Scrolling Man
+
+- Link to your experiment:
+
+http://www.aronsommer.com/works/thescrollingman/
+
+- Describe your experiment:
+
+This animation is achieved by automatically scrolling down through forty individual images.
+
+- What technologies/languages did you use?
+
+JavaScript
