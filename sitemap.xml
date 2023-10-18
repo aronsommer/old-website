@@ -6,61 +6,102 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://www.aronsommer.com/</loc>
+  <loc>https://oldwebsite.aronsommer.com/</loc>
+  <lastmod>2023-10-16T10:32:51+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/colorfalling/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/colorfalling/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/fallingcolortree/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/fallingcolortree/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/thescrollingman/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/thescrollingman/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/infinity/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/infinity/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/kalhorexh/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/kalhorexh/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/macht/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/macht/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/slowdown/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/slowdown/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/goodwindow/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/goodwindow/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/papertunnel/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/papertunnel/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/lifeisshort/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/lifeisshort/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/loveisintheair/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/loveisintheair/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/offering/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/offering/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/itsmagic/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/itsmagic/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/humansrule/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/humansrule/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/inthedark/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/inthedark/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/refresh/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/refresh/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/chle/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/chle/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.aronsommer.com/works/jumpingelephant/</loc>
+  <loc>https://oldwebsite.aronsommer.com/works/jumpingelephant/</loc>
+  <lastmod>2023-10-16T10:32:52+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+
+
 </urlset>
