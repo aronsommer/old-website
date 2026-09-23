@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST}  ^aronsommer.com [nocase]
-RewriteRule ^(.*)         http://www.aronsommer.com/$1 [last,redirect=301]
